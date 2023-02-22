@@ -1,0 +1,2 @@
+# license
+  Roleplay için lisans
